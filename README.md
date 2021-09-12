@@ -17,7 +17,7 @@
 </a>
 </br>
 
-<a href="https://tryhackme.com/p/sepco">
+<a href="https://tryhackme.com/p/sepco" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/sepco.png" alt="TryHackMe" />
 </a>
 </br>
